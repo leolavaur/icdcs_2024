@@ -1,6 +1,6 @@
 # FL x Security for Network Monitoring
 
-This tutorial will be held at the [44th IEEE International Conference on Distributed Computing Systems]([https://nof.dnac.org](https://icdcs2024.icdcs.org/)) (ICDCS 2024) in July 2024.
+This tutorial will be held at the [44th IEEE International Conference on Distributed Computing Systems](https://icdcs2024.icdcs.org/) (ICDCS 2024) in July 2024.
 This repository contains the materials, including the Jupyter notebooks and the presentations support, that have been used during the tutorial.
 You can find a published summary of the tutorial content in the conference proceedings.
 
@@ -19,7 +19,7 @@ Finally, we discuss the issues raised by using FL in the context of network secu
 ### Yann Busnel
 
 <p align="center">
-    <img src="./img/yann.png" alt="Yann Busnel - NoF 2023" style="width: 50%; max-width: 200px;">
+    <img src="./img/yann.png" alt="Yann Busnel - ICDCS 2024" style="width: 50%; max-width: 200px;">
 </p>
 
 Yann Busnel has joined IMT Nord Europe as Dean of Research and Innovation from June 2023. After more than 15 years of experience as a faculty, including 6 years as a full professor at IMT Atlantique and member of the IRISA laboratory, he now oversees all research and innovation activities in line with Institut Mines-Télécom’s strategy. He contributes closely to the definition of strategic orientations and to the operational management of the institution. He also represents the Executive Board internally and externally with its partners in the research environment.
@@ -32,7 +32,7 @@ His research topics are mainly related to Models for large-scale distributed sys
 ### Léo Lavaur
 
 <p align="center">
-    <img src="./img/leo.png" alt="Leo Lavaur - NoF 2023" style="width: 50%; max-width: 200px;">
+    <img src="./img/leo.png" alt="Leo Lavaur - ICDCS 2024" style="width: 50%; max-width: 200px;">
 </p>
 
 Léo Lavaur received the engineering degree in information security from the National Engineering School, South Brittany (ENSIBS), Vannes, France, in 2020. He is currently pursuing the Ph.D. degree in cybersecurity with the Engineering School, IMT Atlantique and the Chair on Cybersecurity in Critical Networked Infrastructures (Cyber CNI), Rennes, France. During his studies, he also worked in industry with Orange Cyberdefense as a part-time Employee for three years, where he worked on application security, and Wi-Fi rogue access-point detection and location.
