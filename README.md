@@ -6,7 +6,7 @@ You can find a published summary of the tutorial content in the conference proce
 
 ## Abstract
 
-Learning (FL) is a Machine Learning paradigm that enables training models across distributed clients without accessing their data. In the context of network security, FL can be used to collaboratively train Intrusion Detection System (IDS) models across multiple organizations, virtually extending the local dataset of each participant.
+Federated Learning (FL) is a Machine Learning paradigm that enables training models across distributed clients without accessing their data. In the context of network security, FL can be used to collaboratively train Intrusion Detection System (IDS) models across multiple organizations, virtually extending the local dataset of each participant.
 Among the new challenges raised by this approach, the heterogeneity of the clients’ environments induce consequent differences in the data distributions, and therefore contributions.
 Further, identifying and mitigating malicious contributions is made more complex in heterogeneous environments.
 
@@ -26,7 +26,7 @@ Yann Busnel has joined IMT Nord Europe as Dean of Research and Innovation from J
 
 He holds an Habilitation to Supervise Research and a PhD respectively from the École Normale Supérieure de Rennes and the University of Rennes. After starting his career in Italy (La Sapienza Universita di Roma), he worked at the University of Nantes, then at ENSAI in Rennes, before joining IMT. As a professor at IMT, he was previously head of the Rennes campus of IMT Atlantique, in charge of education and research purposes.
 
-His research topics are mainly related to Models for large-scale distributed systems and networks, with application in Data stream analysis, Cybersecurity, Massive health data and Artificial Intelligence. Recently, his areas of application range from (i) cybersecurity and dependability to (3) the analysis of medical data, in the context of pharmacovigilance or genomic sequence analysis, and (3) the self-organized coordination of fleets of drones. He is co-head of the national network of research on Distributed Systems and Networks (GDR RSD and GDR Security). He has published over 100 articles in peer-reviewed journals and conferences. He has also coordinated several national and international collaborative research projects.
+His research topics are mainly related to Models for large-scale distributed systems and networks, with application in Data stream analysis, Cybersecurity, Massive health data and Artificial Intelligence. Recently, his areas of application range from (1) cybersecurity and dependability to (2) the analysis of medical data, in the context of pharmacovigilance or genomic sequence analysis, and (3) the self-organized coordination of fleets of drones. He is co-head of the national network of research on Distributed Systems and Networks (GDR RSD and GDR Security). He has published over 100 articles in peer-reviewed journals and conferences. He has also coordinated several national and international collaborative research projects.
 
 
 ### Léo Lavaur
