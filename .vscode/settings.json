@@ -18,11 +18,9 @@
         "--experimental-string-processing"
     ],
     
-    "ruff.path": ["ruff"],
-    
     "[python]": {
         "editor.formatOnSave": true,
-        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.defaultFormatter": "charliermarsh.ruff",
         "editor.codeActionsOnSave": {
             "source.fixAll": "explicit",
             "source.organizeImports": "explicit"

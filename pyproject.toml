@@ -12,7 +12,11 @@ python = "~3.11"
 tensorflow = "^2.17.0"
 tensorflow-metal = "^1.1.0"
 pandas = "^2.2.2"
-flwr = {extras = ["datasets","simulation"], version = "^1.9.0"}
+flwr = {extras = ["simulation"], version = "^1.9.0"}
+keras = "^3.4.1"
+# flwr-datasets = "^0.2.0"
+flwr-datasets = {git = "https://github.com/adap/flower.git", rev = "7ad7bd4f51fcbd1f9e5289883407d5ff8ad7da23", subdirectory = "datasets"}
+scikit-learn = "^1.5.1"
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.29.5"
